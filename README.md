@@ -24,7 +24,7 @@ This repository contains a Python implementation of the Factory Method design pa
 ### Installation
 Clone the repository and navigate to its directory:
 ```bash
-git clone [<repository-url>](https://github.com/gpradinett/FactoryMethod.git)
+git clone https://github.com/gpradinett/FactoryMethod.git
 cd FactoryMethod
 ```
 
